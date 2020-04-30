@@ -48,4 +48,4 @@ Very begin beginner :)
 
 ## Screenshot
 
-Wait
+![](https://github.com/csci3251-2020/student-1155125303/blob/master/2.png)
