@@ -3,6 +3,7 @@
 ## Introduction
 
 Hello! My name is Sun Choi. I'm Year 2 Computer Science student.
+**Single, A0**
 IT-Dog to be. Classical music lover.
 
 ## Github Experience
@@ -14,18 +15,18 @@ Very begin beginner :)
 * ~~German~~
 * Pascal
 * C
-* **C++**
+* C++
 * Java
 * Python
 
 ## Hobbies
 
 * **Piano**
-- **Chopin**
-- Mozart
-- Schubert
-- Rachmaninov
-- Prokofiev
+    - **Chopin**
+    - Mozart
+    - Schubert
+    - Rachmaninov
+    - Prokofiev
 
 ## Courses I have taken
 
