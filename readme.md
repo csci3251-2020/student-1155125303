@@ -10,7 +10,7 @@ IT-Dog to be. Classical music lover.
 
 Very begin beginner :)
 
-## Language I learnt
+## Language I have learnt
 
 * ~~German~~
 * Pascal
