@@ -37,7 +37,7 @@ Very begin beginner :)
 | ESTR | 2002 |
 | ESTR | 2102 |
 
-## Things to do
+## To do list
 
 - [x] CSCI3251 Project Milestone 1
 - [x] CSCI3251 Project Milestone 2
