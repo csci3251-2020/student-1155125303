@@ -1,4 +1,4 @@
-# CSCI3251 Github Project Milestone 2
+# CSCI3251 Github Project Milestone #2
 
 ## Introduction
 
